@@ -20,3 +20,7 @@ piyal
 ### Push code to git REPO
 
 ### Git status
+```
+git status
+```
+##
